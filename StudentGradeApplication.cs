@@ -24,15 +24,15 @@ class frmStudentGradeProgram
         double history = Convert.ToDouble(Console.ReadLine());
 
 
-        double Sum = english + math + science + filipino + history;
-        double Average = Sum / 5;
+        double Sum = english + math + science + filipino + history; // Add the grades to get the total
+        double Average = Sum / 5; // Then divide to get the average
 
-        if(Average >= 75.00)
+        if(Average >= 75.00) // Condition if the student passed
         {
             Console.Write("\nThe student passed.");
             Console.Write($"\nThe general average of {name} is {Average:F2}.\n");
         }
-        else if(Average < 75.00)
+        else if(Average < 75.00) // Condition if the student failed
         {
             Console.Write("\nThe student failed.");
             Console.Write($"The general average of {name} is {Average:F2}.\n");

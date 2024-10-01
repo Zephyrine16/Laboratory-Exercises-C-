@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\net8.0-windows\StudentRegistrationForm.exe
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\net8.0-windows\StudentRegistrationForm.deps.json
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\net8.0-windows\StudentRegistrationForm.runtimeconfig.json
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\net8.0-windows\StudentRegistrationForm.dll
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\net8.0-windows\StudentRegistrationForm.pdb
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.Form1.resources
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.AssemblyInfo.cs
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.dll
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\refint\StudentRegistrationForm.dll
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.pdb
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\StudentRegistrationForm.genruntimeconfig.cache
+C:\Users\PC\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\net8.0-windows\ref\StudentRegistrationForm.dll
